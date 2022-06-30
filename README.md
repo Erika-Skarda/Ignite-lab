@@ -25,6 +25,10 @@ Projeto feito na semana do Ignite Lab da @rocketseat.
 
  O projeto tinha que criar um página home onde o usuário cadastra o email e vai direto para a tela de Eventos.
 
+## 🎨 Ux:
+
+[Figma](https://www.figma.com/file/o8TaUd9ACB26V8i8ejHRk7/Plataforma-de-evento---Ignite-Lab-(Community)-(Community)?node-id=24%3A2) 
+
 ## 🎊 Deploy
 
 <!-- <p align="justify">
@@ -47,12 +51,12 @@ Por último, suba a aplicação:
 npm run dev
 ```
 
-
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://reactjs.org)
 - [Tailwind](https://tailwindcss.com/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [GraphQL](https://graphql.org/)
 
 ## Desenvolvido Por :octocat:
 
