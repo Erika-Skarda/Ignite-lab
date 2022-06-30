@@ -1,5 +1,4 @@
-# Plataforma Ignite Lab
- :rocket:
+# Plataforma Ignite Lab :rocket:
 
 Projeto feito na semana do Ignite Lab da @rocketseat.
  Foram utilizados:  **ReactJS**,  **Tailwind**,  **Graphql**,  **Apollo**,  **TypeScript**,  **Deploy Vercel**.
