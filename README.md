@@ -16,7 +16,7 @@ Projeto feito na semana do Ignite Lab da @rocketseat.
 </div> -->
 </br>   
 
-> Status do Projeto: Em andamento
+> Status do Projeto: Concluído  ✅
  
 </br>   
 
@@ -31,9 +31,9 @@ Projeto feito na semana do Ignite Lab da @rocketseat.
 
 ## 🎊 Deploy
 
-<!-- <p align="justify">
-  O deploy do projeto foi realizado no vercel e encontra-se disponível em: (https://nlw-4-react-pink.vercel.app/)
-</p> -->
+<p align="justify">
+  O deploy do projeto foi realizado no vercel e encontra-se disponível em: (https://ignite-lab-eight-phi.vercel.app/)
+</p>
 
 ## Como rodar a aplicação :arrow_forward:
 
